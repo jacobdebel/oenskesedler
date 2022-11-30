@@ -1,0 +1,76 @@
+#+title: Ønskesedler
+#+subtitle: 
+#+author: 
+#+date: 
+#+options: toc:t num:nil tags:t timestamp:nil ^:{} html-postamble:nil
+# #+setupfile: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+setupfile: ./org-html-themes/org/theme-bigblow-local.setup
+#+setupfile: ./theme-bigblow-local.setup
+
+* Agnes
+
+* Asta
+
+* Saga
+- Bukser (gerne med farve eller flerfarvede)
+- Negleting (helst uv)
+- varme bluser
+- Et matchende sæt ternet nattøj
+- Overcooked (spil til playstation)
+- Ting jeg kan lave med mine veninder
+- Hækleting (garn og hæklenåle)
+- Sko: Panda dunks low str 39 (1800 kr)
+  [[https://thesneakerstore.dk/products/nike-dunk-low-black-white-panda]]
+- Plakater (helt lyserøde eller gule)
+- Tøj (helst med farve)
+- Strømper
+- Krea-ting (som akrylmaling og lærreder)
+- Malepensler (i forskellige størrelser)
+- poscatuscher
+- Cover til telefon (iphone 11)
+- Gravitrax (Kuglebane til større børn/voksne)
+  [[https://www.br.dk/produkter/gravitrax-starter-set/100465372/]]
+- Symaskine + stof
+- En computermus
+- Brætspil ("Det dårlige selskab")
+- Rigtige skøjter str 39
+- Airpods (trådløse høretelefoner til iphone, de gamler virker ikke mere)
+- Farveblyanter
+- Blyanter (6B, 4B, 9B, HB)
+- Tegnetuscher (copic tuscher, men er lidt dyre, men alt er fint)
+- LED lyskæde (til at hænge rundt i loftet)
+- Falske blade (til at hænge rundt i loftet)
+- Et stort spejl
+- Makeup (gerne concealer)
+- Glattejern
+* Katja
+- Børnepasning, så jeg kan komme på date med min søde husbond.
+- Oplevelser: Teater, biograf, museumsbesøg, koncerter, keramik, madoplevelser etc
+- "Skraldehapser", som f.eks.
+
+  [[https://totalrent.dk/shop/87-griberedskaber--skovle/4112-long-finger-trigger-90-cm--unger/]]
+  
+- Medlemsskab af Biografklub Danmark og følgeskab til film eller børnepasning
+- Skovbevis med ahorngrene eller træ: [[https://webshop.naturfonden.dk/produkt/skovbevis/]]
+- Gavekort til Line Jensen Illu: [[https://webshop.naturfonden.dk/produkt/skovbevis/]]
+- Trøje a la denne: festivalsweater i samme farver som på modellen, men uden den øverste blå stribe, str. medium (det haster ikke)
+
+  [[https://www.petiteknit.com/collections/my-size-dansk/products/festival-sweater-my-size?variant=39510587146295]]
+
+- et dejligt hus i skovkanten med plads, ro og fuglesang og søde naboer og tæt til togstation og god skole
+* Jacob
+- Børnepasning, så jeg kan komme på date med min søde hustru.
+- Løbetøj.
+- Sokker til løb. Det er helt fint med nogle simple bomuldssokker.
+- Hjemmesko til hjemmet. Det må gerne være et par glerup eller andre uldfutter.
+- Skærebrætter i Kejsertræ fra Tojiro. Kan bl.a. købes hos HW Larsen
+
+  [[https://www.hwl.dk/skaerebraetter?filter%5Bdata.attributedata.spec_brand%5D=Tojiro&page=1]]
+  
+- Støbejernsstegepande - Skeppshult  professional (med håndtag i rustfrit stål) i str 24 cm.
+
+  https://www.pricerunner.dk/pl/1266-3149319/Gryder-Pander/Skeppshult-Professional-Stegepande-24cm-Sammenlign-Priser
+
+- Nyt kabel til mine høretelefoner
+
+  [[https://www.amazon.de/ketdirect-Fernbedienung-Volumen-Mikrofon-P5-P7-Kopfh%C3%B6rer/dp/B01F50ZN6K/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=bowers+wilkins+p7+kabel&qid=1605698913&s=ce-de&sr=1-3]]
